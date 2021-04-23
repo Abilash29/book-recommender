@@ -1,0 +1,1 @@
+An Amazon-affiliated application developed using React.js and Firebase, that is exclusively designed to buy books online. The books can be bought from amazon which is redirected to the corresponding books billing page from the website.
